@@ -38,13 +38,7 @@ color: #2e2f42;
 .nav-menu:focus {
     color: #404bbf;
 }
-.nav-studio{
-    color: #2e2f42;
-}
-.nav-studio:hover,
-.nav-studio:focus {
-    color: #404bbf404bbff;
-}
+
 .address {
     font-size: 16px;
     line-height: 1.5;
