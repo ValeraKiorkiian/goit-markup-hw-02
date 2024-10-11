@@ -38,16 +38,17 @@ color: #2e2f42;
 .nav-menu:focus {
     color: #404bbf;
 }
-
 .address {
+    font-style: normal;
+}
+.address-two {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    font-style: normal;
 }
-.address:hover,
-.address:focus {
+.address-two:hover,
+.address-two:focus {
     color: #404BBF;;
 }
 .section {
