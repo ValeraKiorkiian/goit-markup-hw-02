@@ -58,6 +58,7 @@ color: #2e2f42;
     font-size: 56px;
     letter-spacing: 1.07;
     text-align: center;
+    letter-spacing: 0.02em;
     color: #ffffff;
 }
 .button {
@@ -67,53 +68,59 @@ color: #2e2f42;
     letter-spacing: 0.04em;
     cursor: pointer;
     color: #ffffff;
+    background-color: #4d5ae5;
 }
 .button:hover,
 .button:focus {
     background-color: #404BBF;
 }
 .section-h {
-    font-family: 500;
+    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.section0-p {
+.section-p {
     letter-spacing: 0.02em;
     color: #434455;
 }
-.setion-two-color {
+.section-two-color {
     background-color: #f4f4fd;
 }
 .section-two {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+}
+.section-two-col {
+    background-color: #ffffff;
 }
 .section-two-team {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
     text-align: center;
     color: #2e2f42;
 }
 .section-two-p {
-    line-height: 1.2;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
 }
 .portfolio {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 .section-three-h {
     font-weight: 500;
@@ -121,6 +128,7 @@ color: #2e2f42;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 .section-three-p {
     line-height: 1.5;
@@ -130,19 +138,24 @@ color: #2e2f42;
     background-color: #2e2f42;
 }
 .footer-web {
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     color: #4d5ae5;
+    text-transform: uppercase;
 }
 .footer-studio {
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     color: #f4f4fd;
+    text-transform: uppercase;
 }
 .footer-p {
     color: #f4f4fd;
+    letter-spacing: 0.02em;
 }
