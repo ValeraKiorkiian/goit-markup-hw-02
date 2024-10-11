@@ -1,0 +1,135 @@
+body {
+    font-family: "Roboto" sans-serif;
+    color: #434455;
+    background-color: #ffffff;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.nav-web {
+    font-family: "Raleway" sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 3%;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.nav-studio {
+color: #2e2f42;
+}
+.nav-menu {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    color: #2e2f42;
+}
+.nav-menu:hover,
+.nav-menu:focus {
+    color: #404bbf;
+}
+.address {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    color: #434455;
+}
+.address:hover {
+    color: #404BBF;;
+}
+.section {
+    background-color: #2e2f42;
+}
+.title {
+    font-weight: 700;
+    font-size: 56px;
+    letter-spacing: 1.07;
+    text-align: center;
+    color: #ffffff;
+}
+.button {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 4%;
+    cursor: pointer;
+    color: #ffffff;
+}
+.button:hover,
+.button:focus {
+    background-color: #404BBF;
+}
+.section-h {
+    font-family: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 2%;
+    color: #2e2f42;
+}
+.section0-p {
+    letter-spacing: 2%;
+    color: #434455;
+}
+.setion-two-color {
+    background-color: #f4f4fd;
+}
+.section-two {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.1;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #2e2f42;
+}
+.section-two-team {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #2e2f42;
+}
+.section-two-p {
+    line-height: 1.2;
+    letter-spacing: 2%;
+    text-align: center;
+}
+.portfolio {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.1;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #2e2f42;
+}
+.section-three-h {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 2%;
+    color: #2e2f42;
+}
+.section-three-p {
+    line-height: 1.5;
+    letter-spacing: 2%;
+}
+.footer {
+    background-color: #2e2f42;
+}
+.footer-web {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 3%;
+    color: #4d5ae5;
+}
+.footer-studio {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 3%;
+    color: #f4f4fd;
+}
+.footer-p {
+    color: #f4f4fd;
+}
